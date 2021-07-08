@@ -25,18 +25,16 @@ To-do list:
 
 ## Getting Started
    
-git clone 
-(include all environment setup steps)
+git clone https://github.com/guillermo-delgado-revature/P1.git
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+> Got to the P1 folder.
+> Next go to the P1 Project folder.
+> Find P1Shop folder.
+> Rigth click on P1Shop.sln and opened with visual studio.
+> hit run button on visual studio.
 
 ## Contributors
 
