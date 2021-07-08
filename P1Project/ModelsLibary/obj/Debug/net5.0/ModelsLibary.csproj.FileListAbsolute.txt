@@ -1,0 +1,12 @@
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\bin\Debug\net5.0\ModelsLibary.deps.json
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\bin\Debug\net5.0\ModelsLibary.dll
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\bin\Debug\net5.0\ref\ModelsLibary.dll
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\bin\Debug\net5.0\ModelsLibary.pdb
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\obj\Debug\net5.0\ModelsLibary.csproj.AssemblyReference.cache
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\obj\Debug\net5.0\ModelsLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\obj\Debug\net5.0\ModelsLibary.AssemblyInfoInputs.cache
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\obj\Debug\net5.0\ModelsLibary.AssemblyInfo.cs
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\obj\Debug\net5.0\ModelsLibary.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\obj\Debug\net5.0\ModelsLibary.dll
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\obj\Debug\net5.0\ref\ModelsLibary.dll
+C:\Users\Guillermo\Desktop\P1Project\ModelsLibary\obj\Debug\net5.0\ModelsLibary.pdb

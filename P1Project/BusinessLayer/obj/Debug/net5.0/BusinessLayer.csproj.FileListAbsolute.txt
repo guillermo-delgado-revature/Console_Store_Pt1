@@ -1,0 +1,17 @@
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\bin\Debug\net5.0\ModelsLibary.dll
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\bin\Debug\net5.0\ModelsLibary.pdb
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Guillermo\Desktop\P1Project\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
